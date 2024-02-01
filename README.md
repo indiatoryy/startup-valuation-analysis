@@ -1,2 +1,2 @@
-# startup-valuation-analysis
-This repository contains code and data for a comprehensive analysis of startup valuations, funding rounds, acquisitions, and other key metrics in the venture capital ecosystem.
+# Startup Valuation Analysis Project
+Welcome to my Startup Valuation Analysis project! This repository serves as an exploration into the dynamic world of startup ecosystems, venture capital investments, and entrepreneurial milestones. By leveraging an extensive dataset encompassing acquisitions, funding rounds, funds, investments, IPOs, milestones, objects, offices, people, and relationships, this project offers a holistic view of the startup landscape. Using machine learning, I will develop an algorithm to predict the outcome of startups based on key meterics determined through data analysis.
